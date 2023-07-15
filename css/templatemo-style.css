@@ -91,7 +91,7 @@ hr {
 
 /* START HOME */
 .templatemo-home {
-  background: url(/images/personal-images/header-bg-violet.png);
+  background: url(/images/header-bg-violet.webp);
   background-size: cover;
   background-attachment: fixed;
   background-color: black; 
@@ -339,7 +339,7 @@ hr {
 
 /* START ABOUT */
 .tm-about {
-  background: url('/images/personal-images/second-bg.png');
+  background: url('/images/second-bg.webp');
   background-size: cover;
   /* background-attachment: fixed; */
   background-position: center center;
