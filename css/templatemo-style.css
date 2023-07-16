@@ -91,7 +91,7 @@ hr {
 
 /* START HOME */
 .templatemo-home {
-  background: url(https://raw.githubusercontent.com/muh-afsal/Personal-portfolio/master/images/header-bg-violet.webp);
+  background: url(../img/header-bg-violet.webp);
   background-size: cover;
   background-attachment: fixed;
   background-color: black; 
@@ -339,7 +339,7 @@ hr {
 
 /* START ABOUT */
 .tm-about {
-  background: url('https://raw.githubusercontent.com/muh-afsal/Personal-portfolio/master/images/second-bg.webp');
+  background: url(../img/second-bg.webp);
   background-size: cover;
   /* background-attachment: fixed; */
   background-position: center center;
