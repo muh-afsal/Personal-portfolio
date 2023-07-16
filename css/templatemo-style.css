@@ -8,7 +8,7 @@ https://templatemo.com/tm-464-ultra-profile
 
 body {
   background: #ffffff;
-  font-family:sans-serif;
+  /* font-family:sans-serif; */
   font-size: 16px;
   color: #606060;
   position: relative;
@@ -391,7 +391,7 @@ hr {
   margin-right: 20px;
 }
 .tm-social-title {
-  font-family: 'Raleway', sans-serif;
+  /* font-family: 'Raleway', sans-serif; */
   font-weight: bold;
 }
 /* END SOCIAL */
