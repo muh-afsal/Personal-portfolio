@@ -90,3 +90,8 @@ jQuery(document).ready(function($){
     $('.navbar-collapse a').click(function(){
         $(".navbar-collapse").collapse('hide');
     });
+
+
+	document.getElementById('name-head').style.textTransform.toUpperCase
+
+    
